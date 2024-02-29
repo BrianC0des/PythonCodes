@@ -11,3 +11,5 @@ print("Original list x:", x)
 print("Normalized list y:", y)
 print("Sum of normalized values:", sum(y))
 print("Sum of original values:", total_sum)
+
+print("Programming is Fun")
